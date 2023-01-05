@@ -1,4 +1,4 @@
-# ToDo App pet-project
+# ToDo Web App
 - [DEMO LINK](https://vmamchur.github.io/todo-app/)
 
 ## Technologies:
